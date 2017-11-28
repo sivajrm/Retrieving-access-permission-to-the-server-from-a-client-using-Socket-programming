@@ -8,9 +8,9 @@
 Program execution steps:
 
 1. Open a new terminal
-2. Execute "gcc server2.c" for establishing connection on the directory location which has this file server2.c and output through typing the command "./a.out"
+2. Execute "gcc server.c" for establishing connection on the directory location which has this file server2.c and output through typing the command "./a.out"
 3. Open another new terminal
-4. Execute "gcc client2.c" for establishing connection on the directory location which has this file client2.c and output through typing the command "./a.out"
+4. Execute "gcc client.c" for establishing connection on the directory location which has this file client2.c and output through typing the command "./a.out"
 5. Database .txt file has to be updated in the server code "/home/siva/Desktop/CN/Verification_DB.txt"
 6. In "Client terminal" -> input the choice of altering the source number and technology through entering either 1 or 0 | 1 -> To alter | 0 -> Default packet
 7. Get the output from the server
