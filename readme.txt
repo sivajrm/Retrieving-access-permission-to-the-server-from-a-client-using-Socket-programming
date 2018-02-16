@@ -30,5 +30,5 @@ ASSUMPTIONS
 	0xfff7	=>	Duplicate packets
 -> STATUS CODE from server with explanation
 	 0xfffa "Not Exist" 		        => Technology mismatch || Customer record not found in the database
-     0xfffb "Paid with Access"	    	=> Record found with payment status satisfied hence allowed full access to the network
-	 0xfff9	"Not Paid"                  => Record found with payment status not satisfied
+         0xfffb "Paid with Access"	    	=> Record found with payment status satisfied hence allowed full access to the network
+	 0xfff9	"Not Paid"                      => Record found with payment status not satisfied
